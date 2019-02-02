@@ -6,9 +6,11 @@ To view user endpoints:
 (may have to wait a little, conda activate base has to happen on my machine)
 
 
-Run the app4.py and enter in the url<br>
+Run the app4.py and enter in the url
 "/stock" to view company information
+
 "/sectors" to view classification
+
 "/year" to view the applicable years
 
 
